@@ -1,8 +1,13 @@
-# fresh project
+# Fresh Project
+
+## Learn About Fresh🍋
+
+Click this [link](https://fresh.deno.dev/docs/introduction) to learn more about Fresh🍋.
 
 ### Usage
 
-Start the project:
+- Clone this repository
+- Start the project:
 
 ```
 deno task start
@@ -10,7 +15,7 @@ deno task start
 
 This will watch the project directory and restart as necessary.
 
-## URL DEMO
+## URL Demo Preview
 
 Click this [link](https://nuflakbrr-freshjs-test.deno.dev/) to preview deploy project.
 
